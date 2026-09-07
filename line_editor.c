@@ -27,10 +27,10 @@
  *     quit
  *
  * Compile:
- *     gcc -Wall -Wextra -std=c11 editor.c -o editor
+ *     gcc -Wall -Wextra -std=c11 line_editor.c -o line_editor
  *
  * Run:
- *     ./editor
+ *     ./line_editor
  *
  * Or load a file automatically at startup:
  *     ./editor document.txt
@@ -548,7 +548,8 @@ int main(int argc, char *argv[])
             char *text;
 
             /*
-             * Find the line number after "insert".
+             * 
+            Find the line number after "insert".
              */
             text = input + strlen(command);
 
