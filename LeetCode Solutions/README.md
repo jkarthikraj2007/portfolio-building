@@ -1,9 +1,9 @@
 # LeetCode Solutions
 
-**Name:** <Your Name>
-**Roll Number:** <Your Roll Number>
+**Name:** <J KARTHIK RAJ>
+**Roll Number:** <R25EJ045>
 
-Personal LeetCode practice log — part of B25GE0101 portfolio
+Personal LeetCode practice log — part of B25GE0101 (Portfolio  Building) Course
 
 ## Table of Contents
 - [Arrays & Strings](./arrays-strings)
