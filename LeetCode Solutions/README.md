@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** <J KARTHIK RAJ>
-**Roll Number:** <R25EJ045>
+**Name: J KARTHIK RAJ**
+**Roll Number: R25EJ045**
 
 Personal LeetCode practice log — part of B25GE0101 (Portfolio  Building) Course
 
