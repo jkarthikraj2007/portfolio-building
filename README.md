@@ -82,3 +82,5 @@ Goodbye.
 | `editor.c`  | Source code for the line editor               |
 | `HELP.md`   | Command reference with usage examples         |
 | `README.md` | This file                                     |
+
+- [LeetCode Solutions](https://github.com/jkarthikraj2007/leetcode-solutions)
